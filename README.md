@@ -1,6 +1,9 @@
 # 🛒 Qtec E-commerce App
 
-A clean and modern e-commerce web application that allows users to browse products, view detailed information, add items to a cart, and simulate checkout — all without user authentication.
+## 📝 Brief Description
+
+Qtec E-commerce App is a modern, single-page web application that allows users to browse a list of products, view detailed information, manage items in a cart, and simulate the checkout process. It features a clean and responsive UI built with React.js and Tailwind CSS on the frontend, and uses a Node.js + Express backend with MongoDB following the MVC architecture. No authentication is required, making it lightweight and easy to use for demo or learning purposes.
+
 
 ---
 
