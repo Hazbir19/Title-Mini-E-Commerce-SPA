@@ -45,6 +45,8 @@ A clean and modern e-commerce web application that allows users to browse produc
 ---
 
 ## 📦 How to Run Locally
+cd client
+`npm install`
 
 ### 🔧 Clone the Repository
 
