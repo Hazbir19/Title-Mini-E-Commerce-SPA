@@ -1,0 +1,139 @@
+export const products = [
+  {
+    id: 1,
+    title: "Smart Watch",
+    brand: "TechWear",
+    category: "Wearables",
+    price: 99.99,
+    image: "https://i.ibb.co/spCnqb9g/Smart-watch.png",
+    stock: 25,
+    rating: 4.5,
+    description: "Stylish smart watch with fitness tracking and notifications.",
+    features: [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Bluetooth connectivity",
+      "Water resistant"
+    ]
+  },
+  {
+    id: 2,
+    title: "Wireless Headphones",
+    brand: "SoundMax",
+    category: "Audio",
+    price: 59.99,
+    image: "https://i.ibb.co/1YMrz1wc/Wireless-Headphones.png",
+    stock: 40,
+    rating: 4.3,
+    description: "Noise-cancelling wireless headphones with deep bass.",
+    features: [
+      "Over-ear design",
+      "ANC Technology",
+      "20-hour battery life",
+      "Built-in mic"
+    ]
+  },
+  {
+    id: 3,
+    title: "Bluetooth Speaker",
+    brand: "BoomBox",
+    category: "Audio",
+    price: 39.99,
+    image: "https://i.ibb.co/Zpwgd3cb/Bluetooth-Speaker.png",
+    stock: 50,
+    rating: 4.1,
+    description: "Portable speaker with rich sound and long battery life.",
+    features: [
+      "10W output",
+      "Bluetooth 5.0",
+      "8-hour playtime",
+      "Water-resistant"
+    ]
+  },
+  {
+    id: 4,
+    title: "Gaming Mouse",
+    brand: "XtremeGear",
+    category: "Accessories",
+    price: 29.99,
+    image: "https://i.ibb.co/LXHJdFkL/Gaming-Mouse.png",
+    stock: 35,
+    rating: 4.7,
+    description: "Ergonomic gaming mouse with customizable RGB lighting.",
+    features: [
+      "6 DPI modes",
+      "RGB backlight",
+      "7 programmable buttons",
+      "Ergonomic grip"
+    ]
+  },
+  {
+    id: 5,
+    title: "Mechanical Keyboard",
+    brand: "KeyCraft",
+    category: "Accessories",
+    price: 89.99,
+    image: "https://i.ibb.co/LXNCpvQC/Mechanical-Keyboard.png",
+    stock: 18,
+    rating: 4.8,
+    description: "Mechanical keyboard with blue switches and backlight.",
+    features: [
+      "Blue switches",
+      "Full-size layout",
+      "RGB backlight",
+      "Detachable cable"
+    ]
+  },
+  {
+    id: 6,
+    title: "4K Monitor",
+    brand: "ViewSharp",
+    category: "Displays",
+    price: 299.99,
+    image: "https://i.ibb.co/b5MHwQ1G/4-K-Monitor.jpg",
+    stock: 10,
+    rating: 4.6,
+    description: "Ultra HD 4K monitor with vibrant color accuracy.",
+    features: [
+      "27-inch display",
+      "IPS panel",
+      "60Hz refresh rate",
+      "HDMI & DisplayPort"
+    ]
+  },
+  {
+    id: 7,
+    title: "USB-C Hub",
+    brand: "PortAll",
+    category: "Accessories",
+    price: 24.99,
+    image: "https://i.ibb.co/bMqT7RRF/USB-C-Hub.jpg",
+    stock: 60,
+    rating: 4.2,
+    description: "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader.",
+    features: [
+      "4 USB ports",
+      "HDMI output",
+      "SD/TF card reader",
+      "Aluminum build"
+    ]
+  },
+  {
+    id: 8,
+    title: "Webcam 1080p",
+    brand: "ClearCam",
+    category: "Cameras",
+    price: 49.99,
+    image: "https://i.ibb.co/SDCSScCk/Webcam-1080p.jpg",
+    stock: 22,
+    rating: 4.4,
+    description: "Full HD webcam with built-in microphone and privacy cover.",
+    features: [
+      "1080p @30fps",
+      "Auto light correction",
+      "USB plug-and-play",
+      "Built-in mic"
+    ]
+  },
+  
+];
